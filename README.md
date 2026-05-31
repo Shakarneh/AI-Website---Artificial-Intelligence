@@ -1,6 +1,6 @@
-# AI Website - Artificial Intelligence
+# AI Website - Искусственный интеллект
 
-A full-stack website about Artificial Intelligence built with PHP, MySQL, and JavaScript. Features user registration/login with sessions, admin panel with CRUD operations for users, pages, messages, and reviews.
+Полноценный веб-сайт об искусственном интеллекте, созданный на PHP, MySQL и JavaScript. Включает регистрацию и вход пользователей с сессиями, панель администратора с CRUD операциями для пользователей, страниц, сообщений и отзывов.
 
 ## 🌐 Live Demo
-[Visit Website](http://shak-artificial-intelligence.infinityfreeapp.com)
+[Посетить сайт](http://shak-artificial-intelligence.infinityfreeapp.com)
