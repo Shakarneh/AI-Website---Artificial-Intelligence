@@ -45,7 +45,7 @@ function changeImage() {
 
     if (image) {
         if (isMainImage) {
-            image.src = "images/ai2.jpg"; // استخدم صورة ثانية مناسبة
+            image.src = "images/logo.jpg";
         } else {
             image.src = "images/ai.jpg";
         }
